@@ -1,3 +1,3 @@
 # suduku_solve
 
-test11sdasasd
+A Simple Solution to Sudoku
