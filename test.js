@@ -1,5 +1,5 @@
 // test
-let Suduku = require('./solve')
+let Sudoku = require('./solve')
 let test = [
   [0, 6, 0, 0, 9, 3, 0, 0, 0],
   [0, 0, 1, 0, 0, 0, 5, 0, 0],
@@ -12,7 +12,7 @@ let test = [
   [0, 0, 0, 7, 0, 5, 0, 1, 0]
 ]
 
-let results = Suduku.solve(test);
+let results = Sudoku.solve(test);
 for (let i = 0; i < results.length; i++) {
   console.log(results[i]);
 }

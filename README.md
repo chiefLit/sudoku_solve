@@ -1,3 +1,3 @@
-# suduku_solve
+# sudoku_solve
 
 > A Simple Solution to Sudoku
